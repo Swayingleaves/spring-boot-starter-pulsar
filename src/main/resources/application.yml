@@ -1,0 +1,7 @@
+pulsar:
+  serviceUrl:
+  ioThreads:
+  listenerThreads:
+  jsonProducers:
+  stringProducers:
+  consumers:
