@@ -1,5 +1,7 @@
 <div align='center'><h1>spring-pulsar工具</h1></div>
 
+> 目前没有上传到中央仓库，大家就pull下来看看实现就好了
+
 * pom引入依赖
 ```xml
 <dependency>
