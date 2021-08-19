@@ -20,11 +20,11 @@ pulsar:
   # listener线程数默认10
   listenerThreads: 10
   # JSON/JSONArray格式数据的生产者的topic，多个使用英文逗号分隔
-  jsonProducers: producer1-json
+  jsonProducers: topic1-json
   # string格式数据的生产者的topic，多个使用英文逗号分隔
-  stringProducers: producer2-str
+  stringProducers: topic2-str
   # 消费者topic，多个使用英文逗号分隔
-  consumers: consumers1,consumers2,consumers3
+  consumers: topic1-json,topic2-str
 ```
 * 生产者使用示例
 ```java
